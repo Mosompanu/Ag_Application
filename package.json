@@ -1,0 +1,23 @@
+{
+  "name": "ag-application",
+  "version": "1.0.0",
+  "description": "AgriConnect PNG - Cash Crop CRM",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mosompanu/Ag_Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mosompanu/Ag_Application/issues"
+  },
+  "homepage": "https://github.com/Mosompanu/Ag_Application#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
